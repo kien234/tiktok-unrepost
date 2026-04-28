@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tiktok_repost_ultimate_logo_1777401516586.png" width="200" alt="TikTok Repost Ultimate Logo">
+  <img src="logo.png" width="200" alt="TikTok Repost Ultimate Logo">
 </p>
 
 <h1 align="center">💎 TikTok Repost Ultimate Pro</h1>
@@ -41,7 +41,7 @@ Với thiết kế **Glassmorphism** thời thượng, TRU mang lại cảm giá
 ## 📸 Hình ảnh thực tế
 
 <p align="center">
-  <img src="tiktok_repost_ultimate_mockup_1777401611894.png" width="700" alt="TikTok Repost Ultimate Mockup">
+  <img src="demo.png" width="700" alt="TikTok Repost Ultimate Mockup">
   <br>
   <em>Giao diện hiện đại, trực quan và cực kỳ mượt mà</em>
 </p>
