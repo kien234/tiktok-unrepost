@@ -1,4 +1,13 @@
-(function () {
+(/**
+ * TikTok Repost Ultimate v4.0
+ * --------------------------
+ * Công cụ quản lý TikTok chuyên nghiệp
+ * Phát triển bởi: Nguyễn Văn Kiên (kien234)
+ * Website: https://github.com/kien234
+ * 
+ * Bản quyền thuộc về Nguyễn Văn Kiên. Vui lòng không sao chép trái phép.
+ */
+function () {
     const originalFetch = window.fetch;
     window.allRepostVideos = [];
     window.allFollowers = [];
@@ -212,9 +221,15 @@
             <div style="padding:20px 25px;background:rgba(255,255,255,0.02);border-top:1px solid rgba(255,255,255,0.05);display:flex;justify-content:space-between;align-items:center;">
                 <div style="display:flex;align-items:center;gap:12px;">
                     <img src="${dImg}" style="width:40px;height:40px;border-radius:14px;border:1px solid rgba(255,255,255,0.1);object-fit:cover;">
-                    <div><div id="dev-n" style="font-size:13px;font-weight:900;opacity:0.9;">${h2s(_v.k)}</div><div style="font-size:8px;opacity:0.2;font-weight:800;letter-spacing:1px;">PLATINUM DEVELOPER</div></div>
+                    <div>
+                        <div id="dev-n" style="font-size:13px;font-weight:900;opacity:0.9;">${h2s(_v.k)}</div>
+                        <div style="font-size:8px;opacity:0.4;font-weight:800;letter-spacing:1px;color:var(--pk-cyan);">TRU PREMIUM V4.0</div>
+                    </div>
                 </div>
-                <div style="display:flex;gap:8px;"><a style="text-decoration:none;font-size:10px;font-weight:900;color:rgba(255,255,255,0.3);" href="${h2s(_v.f)}" target="_blank">FB</a><a style="text-decoration:none;font-size:10px;font-weight:900;color:rgba(255,255,255,0.3);" href="${h2s(_v.i)}" target="_blank">IG</a></div>
+                <div style="display:flex;gap:10px;">
+                    <a style="text-decoration:none;font-size:10px;font-weight:900;color:rgba(255,255,255,0.4);background:rgba(255,255,255,0.05);padding:4px 8px;border-radius:8px;" href="${h2s(_v.f)}" target="_blank">FB</a>
+                    <a style="text-decoration:none;font-size:10px;font-weight:900;color:rgba(255,255,255,0.4);background:rgba(255,255,255,0.05);padding:4px 8px;border-radius:8px;" href="${h2s(_v.i)}" target="_blank">IG</a>
+                </div>
             </div>
         `;
         document.body.appendChild(ui);

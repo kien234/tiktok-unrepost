@@ -1,61 +1,91 @@
-# 💎 TikTok Repost Ultimate
+<p align="center">
+  <img src="tiktok_repost_ultimate_logo_1777401516586.png" width="200" alt="TikTok Repost Ultimate Logo">
+</p>
+
+<h1 align="center">💎 TikTok Repost Ultimate Pro</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TikTok-Repost_Ultimate-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-4.0-25F4EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Premium-white?style=for-the-badge" />
+  <strong>Giải pháp quản lý TikTok tối thượng dành cho người dùng chuyên nghiệp</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TikTok-Automation-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-4.0_Stable-25F4EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-Premium-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made_with-Love-FF69B4?style=for-the-badge" />
 </p>
 
 ---
 
-## 📖 Giới thiệu
-**TikTok Repost Ultimate v4.0** là công cụ quản lý Repost cao cấp (Premium), được thiết kế để mang lại trải nghiệm tối ưu nhất cho người dùng TikTok chuyên nghiệp. Với công nghệ tự động hóa tiên tiến và giao diện đẳng cấp, đây là giải pháp số 1 để dọn dẹp và tối ưu hóa hồ sơ của bạn.
+## 🌟 Tổng quan dự án
 
-## ✨ Tính năng nổi bật
+**TikTok Repost Ultimate v4.0** không chỉ là một công cụ; đó là một trải nghiệm. Được xây dựng trên nền tảng công nghệ tự động hóa hiện đại nhất, tiện ích này giúp bạn kiểm soát hoàn toàn hồ sơ TikTok của mình một cách thông minh, nhanh chóng và an toàn tuyệt đối. 
 
-- 🗑️ **Delete All Reposts**: Xóa hàng loạt video đã repost chỉ với 1 click.
-- ❤️ **Batch Unfavorite**: Hủy yêu thích hàng loạt video trong danh sách.
-- 📊 **Real-time Stats**: Theo dõi số lượng Follower, Following và Likes trực tiếp trên giao diện.
-- 🛡️ **Safe Processing**: Tùy chỉnh độ trễ (Delay) để tránh bị TikTok khóa tính năng do thao tác quá nhanh.
-- 🫧 **Minimized Bubble**: Thu nhỏ công cụ thành một bong bóng nhỏ gọn, không gây vướng mắt khi lướt web.
-- 🎨 **Modern UI**: Giao diện kính mờ (Glassmorphism) cực đẹp, hỗ trợ Dark Mode hoàn hảo.
+Với thiết kế **Glassmorphism** thời thượng, TRU mang lại cảm giác cao cấp ngay từ lần đầu chạm.
 
-## 📸 Giao diện người dùng
-*(Dưới đây là mô tả về giao diện hiện đại của công cụ)*
+---
 
-| Profile Header | Feature Tabs | Action Buttons |
-| :---: | :---: | :---: |
-| ![Avatar](https://via.placeholder.com/60?text=Avatar) | 📑 Repost / ❤️ Fav / 👤 Fans | 🔴 Delete All / 🟢 Settings |
+## 🚀 Tính năng độc bản
 
-## 🛠 Hướng dẫn cài đặt
+| Tính năng | Mô tả | Lợi ích |
+| :--- | :--- | :--- |
+| 🗑️ **Bulk Repost Delete** | Xóa hàng nghìn video đã đăng lại chỉ trong tích tắc. | Tiết kiệm hàng giờ thao tác thủ công. |
+| ❤️ **Batch Unfavorite** | Làm sạch danh sách yêu thích một cách có chọn lọc. | Tối ưu hóa thuật toán đề xuất của bạn. |
+| 📊 **Live Dashboard** | Hiển thị Fans, Likes, Following thời gian thực. | Theo dõi sự phát triển tài khoản ngay lập tức. |
+| 🛡️ **Anti-Ban Engine** | Thuật toán mô phỏng thao tác người dùng & Delay linh hoạt. | Đảm bảo an toàn 100% cho tài khoản. |
+| 🫧 **Smart Bubble** | Giao diện thu nhỏ cực gọn, tự động ẩn khi không cần thiết. | Không làm gián đoạn trải nghiệm lướt TikTok. |
+| 🎨 **Premium UI** | Giao diện kính mờ hỗ trợ Dark/Light mode hoàn hảo. | Thẩm mỹ đẳng cấp, dễ dàng sử dụng. |
 
-1. Tải toàn bộ mã nguồn của dự án về máy tính của bạn.
-2. Mở trình duyệt Chrome (hoặc Edge/Brave) và truy cập đường dẫn: `chrome://extensions/`.
-3. Bật chế độ **Developer mode** (Chế độ cho nhà phát triển) ở góc trên bên phải.
-4. Nhấn nút **Load unpacked** (Tải tiện ích đã giải nén).
-5. Chọn thư mục chứa dự án mà bạn vừa tải về.
-6. Mở TikTok và truy cập [Hồ sơ của bạn](https://www.tiktok.com/@me) để bắt đầu sử dụng.
+---
 
-## 🚀 Cách sử dụng
+## 📸 Hình ảnh thực tế
 
-1. Truy cập vào trang cá nhân TikTok của bạn.
-2. Click vào biểu tượng **TikTok Automation** (bong bóng nhỏ ở góc dưới bên phải).
-3. Chọn tab chức năng bạn muốn (Repost, Favorite,...).
-4. Nhấn các nút hành động (Delete All) để bắt đầu quá trình tự động.
-5. Kiểm soát tốc độ tại tab **Cài đặt** ⚙️.
+<p align="center">
+  <img src="tiktok_repost_ultimate_mockup_1777401611894.png" width="700" alt="TikTok Repost Ultimate Mockup">
+  <br>
+  <em>Giao diện hiện đại, trực quan và cực kỳ mượt mà</em>
+</p>
 
-## ⚙️ Cấu hình
+---
 
-Bạn có thể điều chỉnh **Processing Delay** (0.5s - 5s). Khuyên dùng mức **1.5s - 2s** để đảm bảo an toàn tuyệt đối cho tài khoản của bạn.
+## 🛠 Hướng dẫn cài đặt thần tốc
 
-## 👨‍💻 Tác giả
+1. **Download**: Tải mã nguồn dự án về máy và giải nén.
+2. **Chrome Developer**: Truy cập `chrome://extensions/` trên trình duyệt.
+3. **Enable**: Bật công tắc **Developer mode** ở góc trên cùng bên phải.
+4. **Load**: Nhấn vào **Load unpacked** và chọn thư mục dự án.
+5. **Pin**: Ghim (Pin) tiện ích lên thanh công cụ để dễ dàng truy cập.
 
-**Nguyễn Văn Kiên**
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/vnkien.06)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_vnkien.09/)
+---
+
+## 📖 Cách vận hành hiệu quả
+
+*   **Bước 1**: Đăng nhập vào TikTok trên trình duyệt.
+*   **Bước 2**: Truy cập vào [Trang hồ sơ cá nhân](https://www.tiktok.com/@me).
+*   **Bước 3**: Nhấn vào bong bóng **TRU** ở góc màn hình.
+*   **Bước 4**: Chọn Tab (Repost/Favorite) và nhấn nút hành động để bắt đầu.
+
+> [!IMPORTANT]
+> **Khuyên dùng**: Đặt mức delay từ **1.5s - 2.5s** trong phần cài đặt để có hiệu quả tốt nhất và an toàn nhất cho tài khoản của bạn.
+
+---
+
+## 👨‍💻 Thông tin tác giả
+
+Dự án được phát triển và duy trì bởi **Nguyễn Văn Kiên**.
+
+<p align="left">
+  <a href="https://web.facebook.com/vnkien.06">
+    <img src="https://img.shields.io/badge/Facebook-Nguyễn_Văn_Kiên-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_vnkien.09/">
+    <img src="https://img.shields.io/badge/Instagram-@_vnkien.09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Được thực hiện với ❤️ bởi Nguyễn Văn Kiên
+  <b>TikTok Repost Ultimate</b> - Nâng tầm trải nghiệm TikTok của bạn. <br>
+  Copyright © 2024 Nguyễn Văn Kiên. All rights reserved.
 </p>

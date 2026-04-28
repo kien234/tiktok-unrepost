@@ -1,8 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "TikTok Repost Ultimate",
+  "name": "TikTok Repost Ultimate - Quản Lý Repost Chuyên Nghiệp",
+  "short_name": "TRU Premium",
   "version": "4.0",
-  "description": "Premium TikTok Repost Management Tool",
+  "description": "TikTok Repost Ultimate v4.0 - Giải pháp quản lý hồ sơ TikTok chuyên nghiệp. Hỗ trợ xóa hàng loạt Repost, Unfavorite hàng loạt và quản lý fans. Tối ưu hóa an toàn và mượt mà. Phát triển bởi Nguyễn Văn Kiên.",
+  "author": "Nguyễn Văn Kiên",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
