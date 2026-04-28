@@ -1,0 +1,24 @@
+🌟 TikTok Management Automation Tool 🌟
+
+Giới thiệu sản phẩm:
+Đây là một công cụ (userscript/extension) mạnh mẽ được thiết kế dành riêng cho người dùng TikTok muốn tối ưu hóa và dọn dẹp hồ sơ cá nhân một cách nhanh chóng và chuyên nghiệp. Với giao diện Glassmorphism hiện đại, công cụ mang lại trải nghiệm người dùng tuyệt vời và hiệu quả.
+
+🚀 Các tính năng chính:
+1. Quản lý Repost: Cho phép xóa hàng loạt các video đã Repost chỉ với một cú nhấp chuột.
+2. Quản lý Yêu thích (Favorites): Hỗ trợ Unfavorite video hàng loạt, giúp làm sạch danh mục yêu thích nhanh chóng.
+3. Thống kê hồ sơ: Hiển thị trực quan số lượng Following, Followers và Likes ngay trên menu công cụ.
+4. Tùy chỉnh tốc độ: Tính năng "Processing Delay" cho phép điều chỉnh tốc độ xử lý để đảm bảo an toàn cho tài khoản, tránh bị TikTok đánh dấu là spam.
+5. Giao diện thu nhỏ (Minimized Bubble): Biểu tượng bong bóng tiện lợi cho phép ẩn/hiện menu bất cứ lúc nào mà không làm gián đoạn việc lướt web.
+6. Thiết kế hiện đại: Phong cách Glassmorphism mờ ảo, tương thích tốt với giao diện tối (Dark Mode) của TikTok.
+
+🛠 Hướng dẫn sử dụng:
+- Cài đặt thông qua trình duyệt hỗ trợ chạy script (như Tampermonkey).
+- Truy cập trang hồ sơ TikTok cá nhân của bạn.
+- Click vào biểu tượng công cụ để mở menu quản lý.
+
+👨‍💻 Tác giả: Nguyễn Văn Kiên
+🔗 Liên hệ: 
+- Facebook: https://web.facebook.com/vnkien.06
+- Instagram: https://www.instagram.com/_vnkien.09/
+
+Sản phẩm được phát triển nhằm mục đích hỗ trợ người dùng quản lý nội dung cá nhân một cách thông minh hơn!
