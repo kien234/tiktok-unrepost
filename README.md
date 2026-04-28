@@ -1,15 +1,15 @@
-# 🌟 TikTok Automation Pro
+# 💎 TikTok Repost Ultimate
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TikTok-Automation-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-1.2.0-25F4EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TikTok-Repost_Ultimate-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-4.0-25F4EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Premium-white?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📖 Giới thiệu
-**TikTok Automation Pro** là một công cụ mạnh mẽ được thiết kế để giúp bạn quản lý hồ sơ TikTok một cách thông minh và tự động. Với giao diện **Glassmorphism** hiện đại và hiệu ứng mượt mà, việc dọn dẹp Repost hay Unfavorite video chưa bao giờ dễ dàng và phong cách đến thế.
+**TikTok Repost Ultimate v4.0** là công cụ quản lý Repost cao cấp (Premium), được thiết kế để mang lại trải nghiệm tối ưu nhất cho người dùng TikTok chuyên nghiệp. Với công nghệ tự động hóa tiên tiến và giao diện đẳng cấp, đây là giải pháp số 1 để dọn dẹp và tối ưu hóa hồ sơ của bạn.
 
 ## ✨ Tính năng nổi bật
 

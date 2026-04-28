@@ -1,7 +1,7 @@
-🌟 TikTok Management Automation Tool 🌟
+🌟 TikTok Repost Ultimate v4.0 🌟
 
 Giới thiệu sản phẩm:
-Đây là một tiện ích mở rộng (Chrome Extension) mạnh mẽ được thiết kế dành riêng cho người dùng TikTok muốn tối ưu hóa và dọn dẹp hồ sơ cá nhân một cách nhanh chóng và chuyên nghiệp. Với giao diện Glassmorphism hiện đại, công cụ mang lại trải nghiệm người dùng tuyệt vời và hiệu quả.
+Đây là một tiện ích mở rộng (Chrome Extension) cao cấp (Premium) được thiết kế dành riêng cho người dùng TikTok muốn tối ưu hóa và dọn dẹp hồ sơ cá nhân một cách nhanh chóng và chuyên nghiệp. Với giao diện Glassmorphism hiện đại, công cụ mang lại trải nghiệm người dùng tuyệt vời và hiệu quả nhất hiện nay.
 
 🚀 Các tính năng chính:
 1. Quản lý Repost: Cho phép xóa hàng loạt các video đã Repost chỉ với một cú nhấp chuột.
