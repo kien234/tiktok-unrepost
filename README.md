@@ -29,10 +29,12 @@
 
 ## 🛠 Hướng dẫn cài đặt
 
-1. Cài đặt tiện ích mở rộng **Tampermonkey** (hoặc các trình chạy script tương tự) trên trình duyệt của bạn.
-2. Tạo một Script mới.
-3. Copy toàn bộ nội dung file `inject.js` và dán vào.
-4. Nhấn **Save** và truy cập [TikTok Profile](https://www.tiktok.com/@me) của bạn.
+1. Tải toàn bộ mã nguồn của dự án về máy tính của bạn.
+2. Mở trình duyệt Chrome (hoặc Edge/Brave) và truy cập đường dẫn: `chrome://extensions/`.
+3. Bật chế độ **Developer mode** (Chế độ cho nhà phát triển) ở góc trên bên phải.
+4. Nhấn nút **Load unpacked** (Tải tiện ích đã giải nén).
+5. Chọn thư mục chứa dự án mà bạn vừa tải về.
+6. Mở TikTok và truy cập [Hồ sơ của bạn](https://www.tiktok.com/@me) để bắt đầu sử dụng.
 
 ## 🚀 Cách sử dụng
 

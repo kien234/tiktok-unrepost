@@ -1,7 +1,7 @@
 🌟 TikTok Management Automation Tool 🌟
 
 Giới thiệu sản phẩm:
-Đây là một công cụ (userscript/extension) mạnh mẽ được thiết kế dành riêng cho người dùng TikTok muốn tối ưu hóa và dọn dẹp hồ sơ cá nhân một cách nhanh chóng và chuyên nghiệp. Với giao diện Glassmorphism hiện đại, công cụ mang lại trải nghiệm người dùng tuyệt vời và hiệu quả.
+Đây là một tiện ích mở rộng (Chrome Extension) mạnh mẽ được thiết kế dành riêng cho người dùng TikTok muốn tối ưu hóa và dọn dẹp hồ sơ cá nhân một cách nhanh chóng và chuyên nghiệp. Với giao diện Glassmorphism hiện đại, công cụ mang lại trải nghiệm người dùng tuyệt vời và hiệu quả.
 
 🚀 Các tính năng chính:
 1. Quản lý Repost: Cho phép xóa hàng loạt các video đã Repost chỉ với một cú nhấp chuột.
@@ -11,10 +11,11 @@ Giới thiệu sản phẩm:
 5. Giao diện thu nhỏ (Minimized Bubble): Biểu tượng bong bóng tiện lợi cho phép ẩn/hiện menu bất cứ lúc nào mà không làm gián đoạn việc lướt web.
 6. Thiết kế hiện đại: Phong cách Glassmorphism mờ ảo, tương thích tốt với giao diện tối (Dark Mode) của TikTok.
 
-🛠 Hướng dẫn sử dụng:
-- Cài đặt thông qua trình duyệt hỗ trợ chạy script (như Tampermonkey).
-- Truy cập trang hồ sơ TikTok cá nhân của bạn.
-- Click vào biểu tượng công cụ để mở menu quản lý.
+🛠 Hướng dẫn cài đặt:
+- Tải toàn bộ mã nguồn dự án về máy.
+- Truy cập chrome://extensions/ trên trình duyệt Chrome.
+- Bật Chế độ nhà phát triển và chọn "Tải tiện ích đã giải nén", trỏ đến thư mục dự án.
+- Mở trang hồ sơ TikTok của bạn để bắt đầu.
 
 👨‍💻 Tác giả: Nguyễn Văn Kiên
 🔗 Liên hệ: 
